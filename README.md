@@ -4,9 +4,7 @@
  'https://ezeagler.vercel.app'
 
  For Seed maps use 'https://www.seeds.gg/1-8-java'
- 
  For custom item resource packs use 'https://eaglercraftextras.github.io/packs.html' or 'https://eaglercraft.vip/packs/'
-
  If you want higher FPS, go to 'https://kwolfdaas.github.io/Eaglercraft-Server-Totortial/performance.html' and follow the intructions. 
 
 # Structures that do load in this file:
