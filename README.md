@@ -24,6 +24,5 @@
   The End Island (including Obsidian Pillars, End Crystals, and the Exit Portal)  
 
 # Working URLs
- 'https://darlandmc.vercel.app'
- 
- 'https://ezeagler.vercel.app'
+ Vercel disabled due to the blocking on local school network, testing with GitHub.
+[https://Benjibottas.github.io/testt/](CLick)
